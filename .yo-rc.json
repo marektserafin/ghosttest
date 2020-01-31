@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhipster.ghost"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "GhostTest",
+    "packageName": "com.jhipster.ghost",
+    "packageFolder": "com/jhipster/ghost",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWEzNzE3NGE3NTQ1OTRkNjBlZjA3MDViZGNkM2U5YjNmYjk4NjliZjMwMjhmMWQzNzkwNTkxNjc1YWNkYzU0YzIxZjM0YzQ0OWZlNzM1ZWI2NTg1ZjYzOTI1Yzc0MzdiYzhjODVjMWIzYjg0MTc0MjA1ZGFkMTkxNzQzMWM2YmY=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
